@@ -9,6 +9,7 @@
 ![M-P神经元模型](https://github.com/thinkingfly/live-and-learning/blob/main/neural-networks/picture/neuron.jpeg "M-P神经元模型")
 
 
+![](http://latex.codecogs.com/gif.latex?\displaystyle\sum_{i=1}^{n}w_ix_i-\Theta)
 
 
-$\sum_{i=1}^{n}w_ix_i-\Theta$
+$\displaystyle\sum_{i=1}^{n}w_ix_i-\Theta$
