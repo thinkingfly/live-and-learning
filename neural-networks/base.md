@@ -18,4 +18,4 @@
 ![M-P神经元模型](https://github.com/thinkingfly/live-and-learning/blob/main/neural-networks/picture/neuron.jpeg "M-P神经元模型")
 
 
-![y=f(\displaystyle\sum_{i=1}^{n}w_ix_i-\Theta)](http://latex.codecogs.com/svg.latex?y=f(\displaystyle\sum_{i=1}^{n}w_ix_i-\Theta))
+其中公式![y=f(\displaystyle\sum_{i=1}^{n}w_ix_i-\Theta)](http://latex.codecogs.com/svg.latex?y=f(\displaystyle\sum_{i=1}^{n}w_ix_i-\Theta))
