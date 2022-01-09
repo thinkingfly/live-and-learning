@@ -11,4 +11,4 @@
 
 
 
-$\displaystyle\sum_{i=1}^{n}w_ix_i-\Theta$
+$\sum_{i=1}^{n}w_ix_i-\Theta$
